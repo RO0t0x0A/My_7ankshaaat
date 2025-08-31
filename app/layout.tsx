@@ -6,13 +6,13 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Samy Akram - Cyber Security Engineer | Links",
+  title: "SAMY AKRM",
   description:
     "Connect with Samy Akram, a passionate cyber security engineer. Find all my social media links and professional profiles in one place.",
   keywords: "cyber security, ethical hacker, security engineer, social media links",
   authors: [{ name: "Samy Akram" }],
   openGraph: {
-    title: "Samy Akram - Cyber Security Engineer",
+    title: "SAMY AKRM",
     description: "Connect with me across all platforms",
     type: "website",
   },
